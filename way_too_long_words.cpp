@@ -1,5 +1,5 @@
 // #codeforce
-// For competitive programming
+// For competitive Coding
 //Examples
 // input
 // 4
