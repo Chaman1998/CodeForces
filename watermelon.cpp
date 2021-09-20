@@ -1,8 +1,8 @@
 // # CodeForces
 // For Competitive Coding
-// inputCopy
+// input
 // 8
-// outputCopy
+// output
 // YES
 // Note
 // For example, the boys can divide the watermelon into two parts of 2 and 6 kilos respectively (another variant — two parts of 4 and 4 kilos).
