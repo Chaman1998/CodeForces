@@ -1,5 +1,5 @@
 // # CodeForces
-// For Competitive Coding
+// For competitive Coding
 // input
 // 8
 // output
