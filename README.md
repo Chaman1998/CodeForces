@@ -1,2 +1,0 @@
-# CodeForces
-For Competitive Coding
